@@ -1,3 +1,0 @@
-user_id,recall,ndcg,attack_cov,attack_rank
-user1,0.8,0.75,1,15
-user2,0.7,0.65,0,0
